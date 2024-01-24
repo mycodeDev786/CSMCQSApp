@@ -39,7 +39,8 @@ const styles = StyleSheet.create({
   },
   LoginButtonStyel: {
     width: "100%",
-    padding: 20,
+    padding:10,
+    height:50,
     color: "white",
     fontSize: 20,
     textAlign: "center",
